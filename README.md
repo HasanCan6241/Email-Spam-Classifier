@@ -4,7 +4,7 @@
 
 This project aims to build a robust machine learning model for detecting spam in emails. By leveraging advanced text preprocessing techniques and classification algorithms, the system accurately classifies emails as spam or not spam. A user-friendly interface built with Streamlit allows for easy interaction with the model.
 
-![Spam Detection]<img src="images/email-spam" alt="spam-classification" width="850" height="355">  <!-- Add an image relevant to your project -->
+![Spam Detection]<img src="images/email-spam.png" alt="spam-classification" width="850" height="355">  <!-- Add an image relevant to your project -->
 
 ## 🛠 Features
 
